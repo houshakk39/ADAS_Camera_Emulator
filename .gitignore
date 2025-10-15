@@ -53,3 +53,16 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# KiCad
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*~
+*.bak
+fp-info-cache
+.kicad_prl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
