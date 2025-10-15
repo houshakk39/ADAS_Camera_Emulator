@@ -1,0 +1,188 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3f2a02e3-0309-4eb4-9fe4-36ab0b4992b4")
+	(paper "A4")
+	(title_block
+		(title "ADAS_Camera_Emulator")
+		(date "2025-10-16")
+		(rev "V1")
+		(company "HAKKI Houssam")
+	)
+	(lib_symbols)
+	(sheet
+		(at 212.09 49.53)
+		(size 27.94 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09c156cf-b73d-4ca8-ae4c-123d726d6d66")
+		(property "Sheetname" "INPUT OUTPUT"
+			(at 212.09 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input_output.kicad_sch"
+			(at 212.09 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADAS_Camera_Emulator"
+				(path "/3f2a02e3-0309-4eb4-9fe4-36ab0b4992b4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 137.16)
+		(size 34.29 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4742d964-3f4b-46e9-ac89-0007999129a2")
+		(property "Sheetname" "power"
+			(at 33.02 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 33.02 179.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADAS_Camera_Emulator"
+				(path "/3f2a02e3-0309-4eb4-9fe4-36ab0b4992b4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 121.92 48.26)
+		(size 33.02 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7acd3cdb-0aa8-4446-809c-3644a423394f")
+		(property "Sheetname" "MCU"
+			(at 121.92 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 121.92 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADAS_Camera_Emulator"
+				(path "/3f2a02e3-0309-4eb4-9fe4-36ab0b4992b4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 45.72)
+		(size 33.02 44.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ed1a64b3-73a9-4313-bd4c-fc4dbfae908d")
+		(property "Sheetname" "INTERFACE"
+			(at 41.91 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "interface.kicad_sch"
+			(at 41.91 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ADAS_Camera_Emulator"
+				(path "/3f2a02e3-0309-4eb4-9fe4-36ab0b4992b4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
