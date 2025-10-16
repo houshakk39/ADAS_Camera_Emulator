@@ -239,6 +239,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -427,6 +428,14 @@
     [
       "09c156cf-b73d-4ca8-ae4c-123d726d6d66",
       "INPUT OUTPUT"
+    ],
+    [
+      "5a5af5cf-2dfd-4072-85e0-e66f46aced93",
+      "BUCK 5V"
+    ],
+    [
+      "9b53f54a-4bf8-437c-8c0b-e645bbe098eb",
+      "BUCK 3.3V"
     ]
   ],
   "text_variables": {}

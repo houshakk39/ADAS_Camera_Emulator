@@ -12,7 +12,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 212.09 49.53)
+		(at 218.44 41.91)
 		(size 27.94 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28,7 +28,7 @@
 		)
 		(uuid "09c156cf-b73d-4ca8-ae4c-123d726d6d66")
 		(property "Sheetname" "INPUT OUTPUT"
-			(at 212.09 48.8184 0)
+			(at 218.44 41.1984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Sheetfile" "input_output.kicad_sch"
-			(at 212.09 90.7546 0)
+			(at 218.44 83.1346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54,7 +54,7 @@
 		)
 	)
 	(sheet
-		(at 33.02 137.16)
+		(at 35.56 132.08)
 		(size 34.29 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,13 +64,14 @@
 		(stroke
 			(width 0.1524)
 			(type solid)
+			(color 87 190 35 1)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 87 190 35 1.0000)
 		)
 		(uuid "4742d964-3f4b-46e9-ac89-0007999129a2")
 		(property "Sheetname" "power"
-			(at 33.02 136.4484 0)
+			(at 35.56 131.3684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -79,7 +80,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 33.02 179.6546 0)
+			(at 35.56 174.5746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -96,8 +97,8 @@
 		)
 	)
 	(sheet
-		(at 121.92 48.26)
-		(size 33.02 38.1)
+		(at 121.92 41.91)
+		(size 35.56 44.45)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -112,7 +113,7 @@
 		)
 		(uuid "7acd3cdb-0aa8-4446-809c-3644a423394f")
 		(property "Sheetname" "MCU"
-			(at 121.92 47.5484 0)
+			(at 121.92 41.1984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -138,7 +139,7 @@
 		)
 	)
 	(sheet
-		(at 41.91 45.72)
+		(at 36.83 41.91)
 		(size 33.02 44.45)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -154,7 +155,7 @@
 		)
 		(uuid "ed1a64b3-73a9-4313-bd4c-fc4dbfae908d")
 		(property "Sheetname" "INTERFACE"
-			(at 41.91 45.0084 0)
+			(at 36.83 41.1984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -163,7 +164,7 @@
 			)
 		)
 		(property "Sheetfile" "interface.kicad_sch"
-			(at 41.91 90.7546 0)
+			(at 36.83 86.9446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
