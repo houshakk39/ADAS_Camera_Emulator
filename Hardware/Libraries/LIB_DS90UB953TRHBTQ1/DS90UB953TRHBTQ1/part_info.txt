@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DS90UB953TRHBTQ1
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2020-05-29 16:43:48
+Downloaded=2025-10-17 01:05:49
+3D=Y

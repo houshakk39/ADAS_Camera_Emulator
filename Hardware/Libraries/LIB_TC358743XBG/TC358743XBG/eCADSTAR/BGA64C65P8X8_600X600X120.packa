@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TC358743XBG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-30-14:11:17)
+    (mountForm default
+        (footprintRef "BGA64C65P8X8_600X600X120")
+        (spec "System")
+    )
+)

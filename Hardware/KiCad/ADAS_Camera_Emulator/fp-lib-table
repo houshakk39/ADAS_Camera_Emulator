@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Toshiba_TC358743XBG")(type "KiCad")(uri "${KIPRJMOD}/Toshiba_TC358743XBG.pretty")(options "")(descr ""))
+)

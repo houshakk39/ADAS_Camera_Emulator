@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS90UB953TRHBTQ1
+D 2 MP MIPI CSI-2 FPD-Link III serializer for 2MP/60fps cameras & radar
+K
+F http://www.ti.com/lit/gpn/ds90ub953-q1
+$ENDCMP
+#
+#End Doc Library

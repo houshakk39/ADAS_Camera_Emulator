@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DS90UB953TRHBTQ1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-05-29-16:43:48)
+    (mountForm default
+        (footprintRef "QFN50P500X500X100-33N-D")
+        (spec "System")
+    )
+)

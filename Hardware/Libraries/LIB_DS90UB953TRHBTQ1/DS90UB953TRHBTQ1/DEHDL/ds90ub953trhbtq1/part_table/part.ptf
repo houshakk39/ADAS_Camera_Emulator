@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DS90UB953TRHBTQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DS90UB953TRHBTQ1" (!) = "", "QFN50P500X500X100-33N-D", "Quad Flat No-Lead", "595-DS90UB953TRHBTQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DS90UB953TRHBTQ1?qs=OEYMhS7p3YYobKAcq0j91Q%3D%3D", "2 MP MIPI CSI-2 FPD-Link III serializer for 2MP/60fps cameras & radar", "http://www.ti.com/lit/gpn/ds90ub953-q1", "1 mm"
+END_PART
+
+END.

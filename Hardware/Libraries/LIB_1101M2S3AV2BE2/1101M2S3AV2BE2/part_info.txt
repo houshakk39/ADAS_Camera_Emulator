@@ -1,9 +1,0 @@
-Manufacturer=C & K COMPONENTS
-PartNumber=1101M2S3AV2BE2
-PartCategory=Switch
-PackageCategory=Other
-PinCount=3
-Version=3.1
-Released=2018-05-01 11:50:24
-Downloaded=2025-10-16 10:29:46
-3D=Y

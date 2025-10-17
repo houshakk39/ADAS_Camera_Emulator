@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TC358743XBG'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "IC_COMPONENTS_PART_NUMBER", "IC_COMPONENTS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "TC358743XBG" (!) = "", "BGA64C65P8X8_600X600X120", "BGA", "", "", "Display Drivers & Controllers HDMI to CSI-2 bridge chip", "https://toshiba.semicon-storage.com/info/docget.jsp?did=35655&prodName=TC358743XBG", "1.2 mm"
+END_PART
+
+END.
